@@ -1,4 +1,4 @@
-# Miami-Heat-and-Equity-Analysis
+# Miami-Heat-and-Equity-Analysis-Visualizations
 
 ## Neighborhoods in Miami, FL that were redlined (segregated and disinvested) using federal policies during the 1930s continue to suffer from the decisions today. As heat health becomes a growing concern in Miami, redlined communities face a lack tree canopy coverage and experience higher temperatures.
 
